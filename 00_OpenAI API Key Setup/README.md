@@ -32,4 +32,6 @@ To use OpenAI's API throughout this bootcamp - please ensure you follow their ne
 
 8. Verify credit and payment method. These are specific to each organisation. Make sure that you have some credit available and a payment method associated to the organisation in which your project and API key belong to.
 
-![image](https://i.imgur.com/CTxmKYw.png)
+![image](https://i.imgur.com/CTxmKYw.png) 
+
+End
